@@ -3,6 +3,9 @@
 # maze_escape
 https://github.com/sbeen1840/maze_escape/assets/108644811/8f205f22-8171-42be-89f3-7f9720a7ff94
 
+https://github.com/sbeen1840/maze_escape/assets/108644811/e579a0cf-b04c-4084-9d6d-4510bbfe2c6a
+
+
 
 ## Key Features
 ```
